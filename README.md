@@ -1,0 +1,1 @@
+The current project is to build a basic recipe website and practice my HTML knowledge studied so far. This includes: the boilerplate, headings, paragraphs, bold, italic, lists, elements and attributes.
